@@ -1,0 +1,1 @@
+from .trainingzones import cli
